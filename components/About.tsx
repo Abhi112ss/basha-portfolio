@@ -16,7 +16,7 @@ const About = () => {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 {/* Card Component */}
                 {[
-                    { img: book, title: "Education", desc: "I hold a Bachelor's degree in Computer Science and focus on Full Stack with Python, OWASP, and more." },
+                    { img: book, title: "Education", desc: "I hold a Bachelor&apos;s degree in Computer Science and focus on Full Stack with Python, OWASP, and more." },
                     { img: finance, title: "Problem Solving", desc: "I have a logical and practical approach to problem-solving, allowing me to think outside the box." },
                     { img: card, title: "Experience", desc: "I have a diverse portfolio of projects, demonstrating my ability to build innovative solutions." },
                     { img: pc, title: "Technical Skills", desc: "C | Java | Python | HTML | CSS | JavaScript | MySQL | Node.js | React.js | MongoDB | AWS & more." }
